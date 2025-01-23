@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
+| [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Kcode15/Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kcode15/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kcode15/Leet/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
