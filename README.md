@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Kcode15/Leet/tree/master/0485-max-consecutive-ones) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Kcode15/Leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kcode15/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
