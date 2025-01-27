@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Kcode15/Leet/tree/master/0485-max-consecutive-ones) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 ## Two Pointers
 |  |
