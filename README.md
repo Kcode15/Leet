@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kcode15/Leet/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kcode15/Leet/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Kcode15/Leet/tree/master/0485-max-consecutive-ones) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Kcode15/Leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kcode15/Leet/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Kcode15/Leet/tree/master/0908-middle-of-the-linked-list) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
