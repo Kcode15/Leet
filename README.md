@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
