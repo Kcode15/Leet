@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kcode15/Leet/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kcode15/Leet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Kcode15/Leet/tree/master/2649-count-total-number-of-colored-cells) |
 ## Monotonic Stack
 |  |
 | ------- |
