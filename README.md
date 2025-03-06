@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Kcode15/Leet/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kcode15/Leet/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
