@@ -15,14 +15,12 @@ public:
                 missing = i;
             }
         }
-        vector<int> ans;
+        int repeat;
         for(auto it: umap){
             if(it.second==2){
-                int num1=it.first;
-                ans.push_back(num1);
+                repeat=it.first;
             }
         }
-        ans.push_back(missing);
-        return ans;
+        return {repeat,missing};
     }
 };
