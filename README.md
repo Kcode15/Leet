@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/Kcode15/Leet/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Kcode15/Leet/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/Kcode15/Leet/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Kcode15/Leet/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Kcode15/Leet/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Kcode15/Leet/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Kcode15/Leet/tree/master/1317-monthly-transactions-i) |
