@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kcode15/Leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Kcode15/Leet/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kcode15/Leet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kcode15/Leet/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kcode15/Leet/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Kcode15/Leet/tree/master/3429-special-array-i) |
 ## Two Pointers
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kcode15/Leet/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kcode15/Leet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kcode15/Leet/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kcode15/Leet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Kcode15/Leet/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kcode15/Leet/tree/master/3227-find-missing-and-repeated-values) |
 ## Monotonic Stack
 |  |
 | ------- |
