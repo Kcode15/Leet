@@ -1,0 +1,28 @@
+class Solution {
+public:
+    vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
+        int n = grid.size();
+        int missing; 
+        unordered_map<int,int> umap;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                int num=grid[i][j];
+                umap[num]++;
+            }
+        }
+        for (int i = 1; i <= n * n; i++) {  
+            if (umap.find(i) == umap.end()) {  
+                missing = i;
+            }
+        }
+        vector<int> ans;
+        for(auto it: umap){
+            if(it.second==2){
+                int num1=it.first;
+                ans.push_back(num1);
+            }
+        }
+        ans.push_back(missing);
+        return ans;
+    }
+};
