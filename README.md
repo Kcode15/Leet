@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Kcode15/Leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kcode15/Leet/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kcode15/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Kcode15/Leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kcode15/Leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Kcode15/Leet/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
