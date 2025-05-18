@@ -5,9 +5,7 @@ public:
         int j=0;
         for(int i=0;i<n;i++){
             if(nums[i]!=0){
-                if(nums[j]==0){
-                    swap(nums[i],nums[j]);
-                }
+                swap(nums[j],nums[i]);
                 j++;
             }
         }
