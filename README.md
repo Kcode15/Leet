@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kcode15/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Kcode15/Leet/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kcode15/Leet/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kcode15/Leet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Kcode15/Leet/tree/master/2610-closest-prime-numbers-in-range) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kcode15/Leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Kcode15/Leet/tree/master/2551-apply-operations-to-an-array) |
 ## Database
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kcode15/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kcode15/Leet/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kcode15/Leet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
