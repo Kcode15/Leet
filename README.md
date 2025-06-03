@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kcode15/Leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+| [1677-matrix-diagonal-sum](https://github.com/Kcode15/Leet/tree/master/1677-matrix-diagonal-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kcode15/Leet/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kcode15/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kcode15/Leet/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
+| [1677-matrix-diagonal-sum](https://github.com/Kcode15/Leet/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kcode15/Leet/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
