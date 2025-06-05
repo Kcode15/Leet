@@ -1,7 +1,6 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int n = nums.size();
+    int binarySearch(vector<int> nums,int n, int target){
         int start = 0;
         int end = n-1;
         int mid = start + (end-start)/2;
@@ -18,5 +17,10 @@ public:
             mid = start+(end-start)/2;
         }
         return -1;
+    }
+    int search(vector<int>& nums, int target) {
+        int n = nums.size();
+        int idx = binarySearch(nums,n,target);
+        return idx;
     }
 };
