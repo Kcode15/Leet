@@ -290,10 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kcode15/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Kcode15/Leet/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kcode15/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Kcode15/Leet/tree/master/0783-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kcode15/Leet/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Kcode15/Leet/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
