@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kcode15/Leet/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kcode15/Leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kcode15/Leet/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Kcode15/Leet/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Kcode15/Leet/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kcode15/Leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kcode15/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kcode15/Leet/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search Tree
 |  |
