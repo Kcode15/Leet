@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kcode15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kcode15/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Kcode15/Leet/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kcode15/Leet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kcode15/Leet/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kcode15/Leet/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kcode15/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Kcode15/Leet/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kcode15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Kcode15/Leet/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kcode15/Leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
