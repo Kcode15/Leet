@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kcode15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/Kcode15/Leet/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Kcode15/Leet/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kcode15/Leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Kcode15/Leet/tree/master/0724-find-pivot-index) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Kcode15/Leet/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Kcode15/Leet/tree/master/3643-zero-array-transformation-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Kcode15/Leet/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
