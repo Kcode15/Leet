@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kcode15/Leet/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Kcode15/Leet/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kcode15/Leet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kcode15/Leet/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kcode15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kcode15/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kcode15/Leet/tree/master/0162-find-peak-element) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Kcode15/Leet/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kcode15/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kcode15/Leet/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kcode15/Leet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -322,5 +324,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kcode15/Leet/tree/master/0078-subsets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
