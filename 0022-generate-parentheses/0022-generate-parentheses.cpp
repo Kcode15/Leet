@@ -1,7 +1,7 @@
 class Solution {
 public:
     void para(int open,int close,int n,string s,vector<string>& ans){
-        if(open==close && open+close==n*2){
+        if(open+close==n*2){
             ans.push_back(s);
             return;
         }
