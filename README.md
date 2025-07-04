@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kcode15/Leet/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Kcode15/Leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kcode15/Leet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kcode15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kcode15/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Kcode15/Leet/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Kcode15/Leet/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Kcode15/Leet/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Kcode15/Leet/tree/master/0078-subsets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
