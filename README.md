@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kcode15/Leet/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kcode15/Leet/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Kcode15/Leet/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kcode15/Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Kcode15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kcode15/Leet/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kcode15/Leet/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kcode15/Leet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Kcode15/Leet/tree/master/2610-closest-prime-numbers-in-range) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Kcode15/Leet/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Kcode15/Leet/tree/master/0131-palindrome-partitioning) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
