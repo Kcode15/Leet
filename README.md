@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Kcode15/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Kcode15/Leet/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Kcode15/Leet/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kcode15/Leet/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Kcode15/Leet/tree/master/2665-minimum-time-to-repair-cars) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Kcode15/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kcode15/Leet/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/Kcode15/Leet/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Kcode15/Leet/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Linked List
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kcode15/Leet/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search Tree
 |  |
