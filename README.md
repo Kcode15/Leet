@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Kcode15/Leet/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kcode15/Leet/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kcode15/Leet/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kcode15/Leet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kcode15/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Kcode15/Leet/tree/master/2478-longest-nice-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kcode15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kcode15/Leet/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kcode15/Leet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Kcode15/Leet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kcode15/Leet/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## String
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kcode15/Leet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
