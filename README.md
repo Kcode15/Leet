@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kcode15/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kcode15/Leet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
