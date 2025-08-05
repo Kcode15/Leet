@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kcode15/Leet/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Kcode15/Leet/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Kcode15/Leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kcode15/Leet/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kcode15/Leet/tree/master/0169-majority-element) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kcode15/Leet/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Kcode15/Leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kcode15/Leet/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Kcode15/Leet/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kcode15/Leet/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Kcode15/Leet/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Kcode15/Leet/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kcode15/Leet/tree/master/0069-sqrtx) |
