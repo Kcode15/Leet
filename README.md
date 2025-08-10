@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Kcode15/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
+| [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kcode15/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
+| [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kcode15/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kcode15/Leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kcode15/Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
+| [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Kcode15/Leet/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kcode15/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Kcode15/Leet/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Kcode15/Leet/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
