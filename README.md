@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Kcode15/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kcode15/Leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Kcode15/Leet/tree/master/0326-power-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kcode15/Leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Kcode15/Leet/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Kcode15/Leet/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kcode15/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
