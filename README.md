@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Kcode15/Leet/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/Kcode15/Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Kcode15/Leet/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kcode15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Kcode15/Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kcode15/Leet/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Kcode15/Leet/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Kcode15/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Kcode15/Leet/tree/master/1236-n-th-tribonacci-number) |
