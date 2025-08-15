@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Kcode15/Leet/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Kcode15/Leet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kcode15/Leet/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kcode15/Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Kcode15/Leet/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kcode15/Leet/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Kcode15/Leet/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kcode15/Leet/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Kcode15/Leet/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Kcode15/Leet/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/Kcode15/Leet/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Kcode15/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Kcode15/Leet/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kcode15/Leet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
