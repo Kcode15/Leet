@@ -1,29 +1,30 @@
 class Solution {
-public:
-    void dfs(int node,unordered_map<int,vector<int>> &graph,vector<int> &visited){
-        visited[node]=1;
-        for(int ngb: graph[node]){
-            if(visited[ngb]!=1){
-                dfs(ngb,graph,visited);
-            }
-        }
-    }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        unordered_map<int,vector<int>> graph;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (isConnected[i][j] == 1 && i != j) {
-                    graph[i].push_back(j);
+private:
+    void bfs(const vector<vector<int>>& adj, vector<int>& vis, int node) {
+        queue<int> q;
+        vis[node] = 1; // Mark start as visited
+        q.push(node);
+        
+        while (!q.empty()) {
+            int k = q.front();
+            q.pop();
+            for (int j = 0; j < adj[k].size(); j++) {
+                if (adj[k][j] == 1 && !vis[j]) {
+                    vis[j] = 1;
+                    q.push(j);
                 }
             }
         }
+    }
+
+public:
+    int findCircleNum(const vector<vector<int>>& adj) {
+        vector<int> vis(adj.size(), 0);
         int count = 0;
-        vector<int> visited(n,0);
-        for(int i=0;i<n;i++){
-            if(visited[i]==0){
-                dfs(i,graph,visited);
+        for (int i = 0; i < adj.size(); i++) {
+            if (!vis[i]) {
                 count++;
+                bfs(adj, vis, i);
             }
         }
         return count;
