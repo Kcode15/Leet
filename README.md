@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Kcode15/Leet/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Kcode15/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Kcode15/Leet/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kcode15/Leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kcode15/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kcode15/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/Kcode15/Leet/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Kcode15/Leet/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kcode15/Leet/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Kcode15/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kcode15/Leet/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Kcode15/Leet/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Kcode15/Leet/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/Kcode15/Leet/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Kcode15/Leet/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
