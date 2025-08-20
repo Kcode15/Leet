@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Kcode15/Leet/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Kcode15/Leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/Kcode15/Leet/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kcode15/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -436,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kcode15/Leet/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Kcode15/Leet/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
