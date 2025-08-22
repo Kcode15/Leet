@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kcode15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Kcode15/Leet/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/Kcode15/Leet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kcode15/Leet/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Kcode15/Leet/tree/master/0792-binary-search) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kcode15/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0542-01-matrix](https://github.com/Kcode15/Leet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kcode15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kcode15/Leet/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Kcode15/Leet/tree/master/1036-rotting-oranges) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kcode15/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kcode15/Leet/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/Kcode15/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kcode15/Leet/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Kcode15/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Kcode15/Leet/tree/master/1036-rotting-oranges) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Kcode15/Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kcode15/Leet/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Kcode15/Leet/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/Kcode15/Leet/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Kcode15/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Kcode15/Leet/tree/master/1236-n-th-tribonacci-number) |
