@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             int a = prerequisites[i][0];
             int b = prerequisites[i][1];
-            graph[a].push_back(b);
+            graph[b].push_back(a);
         }
         vector<int> indegree(numCourses,0);
         for(int i=0;i<numCourses;i++){
@@ -38,7 +38,6 @@ public:
         if(ans.size()!=numCourses){
             return {};
         }
-        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
