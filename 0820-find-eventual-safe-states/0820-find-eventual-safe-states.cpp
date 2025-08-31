@@ -7,14 +7,12 @@ public:
             //when the node is not visited
             if(!vis[ngb]){
                 if(dfs(ngb,graph,vis,pathVis) == true){
-                    vis[node] = 1;
                     return true;
                 };
             }
             // if the node has been previously visited
             // but it has to be on same path;
             else if(pathVis[ngb]){
-                vis[node] = 1;
                 return true;
             }
         }
