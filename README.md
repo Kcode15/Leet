@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Kcode15/Leet/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kcode15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kcode15/Leet/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Kcode15/Leet/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Kcode15/Leet/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kcode15/Leet/tree/master/2121-find-if-path-exists-in-graph) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Kcode15/Leet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kcode15/Leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kcode15/Leet/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Kcode15/Leet/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Kcode15/Leet/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Kcode15/Leet/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Kcode15/Leet/tree/master/1396-count-servers-that-communicate) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kcode15/Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kcode15/Leet/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kcode15/Leet/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Kcode15/Leet/tree/master/0820-find-eventual-safe-states) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Kcode15/Leet/tree/master/2121-find-if-path-exists-in-graph) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Kcode15/Leet/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Trie
@@ -488,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Kcode15/Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kcode15/Leet/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Kcode15/Leet/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
