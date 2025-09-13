@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kcode15/Leet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/Kcode15/Leet/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Kcode15/Leet/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Kcode15/Leet/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Kcode15/Leet/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Kcode15/Leet/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Kcode15/Leet/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Kcode15/Leet/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Kcode15/Leet/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kcode15/Leet/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/Kcode15/Leet/tree/master/3462-vowels-game-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -505,4 +507,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kcode15/Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kcode15/Leet/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Kcode15/Leet/tree/master/0820-find-eventual-safe-states) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Kcode15/Leet/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Kcode15/Leet/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
