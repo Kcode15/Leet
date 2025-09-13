@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kcode15/Leet/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Kcode15/Leet/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kcode15/Leet/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/Kcode15/Leet/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Kcode15/Leet/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Kcode15/Leet/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Kcode15/Leet/tree/master/3462-vowels-game-in-a-string) |
