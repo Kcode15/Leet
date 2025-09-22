@@ -3,13 +3,10 @@ public:
     int maxFrequencyElements(vector<int>& nums) {
         int n = nums.size();
         unordered_map<int,int> umap;
+        int maxi = 0;
         for(int num: nums){
             umap[num]++;
-        }
-        int maxi = 0;
-        for(auto it:umap){
-            int n1 = it.second;
-            maxi = max(maxi,n1);
+            maxi = max(maxi,umap[num]);
         }
         int sum = 0;
         for(auto it: umap){
