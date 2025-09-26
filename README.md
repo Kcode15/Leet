@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kcode15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Kcode15/Leet/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/Kcode15/Leet/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/Kcode15/Leet/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kcode15/Leet/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Kcode15/Leet/tree/master/0792-binary-search) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kcode15/Leet/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kcode15/Leet/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/Kcode15/Leet/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Kcode15/Leet/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kcode15/Leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kcode15/Leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kcode15/Leet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Kcode15/Leet/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/Kcode15/Leet/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Kcode15/Leet/tree/master/0900-reordered-power-of-2) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Kcode15/Leet/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kcode15/Leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kcode15/Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kcode15/Leet/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kcode15/Leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Kcode15/Leet/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Kcode15/Leet/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Kcode15/Leet/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Kcode15/Leet/tree/master/1046-max-consecutive-ones-iii) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kcode15/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/Kcode15/Leet/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Kcode15/Leet/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kcode15/Leet/tree/master/2032-largest-odd-number-in-string) |
