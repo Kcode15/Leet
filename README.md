@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Kcode15/Leet/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kcode15/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Kcode15/Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kcode15/Leet/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Kcode15/Leet/tree/master/0547-number-of-provinces) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kcode15/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Kcode15/Leet/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kcode15/Leet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kcode15/Leet/tree/master/0503-next-greater-element-ii) |
@@ -487,11 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kcode15/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kcode15/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kcode15/Leet/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kcode15/Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kcode15/Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kcode15/Leet/tree/master/0783-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
