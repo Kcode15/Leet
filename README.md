@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Kcode15/Leet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Kcode15/Leet/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1677-matrix-diagonal-sum](https://github.com/Kcode15/Leet/tree/master/1677-matrix-diagonal-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kcode15/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kcode15/Leet/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Kcode15/Leet/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Kcode15/Leet/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Kcode15/Leet/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/Kcode15/Leet/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Kcode15/Leet/tree/master/1236-n-th-tribonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kcode15/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Kcode15/Leet/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Kcode15/Leet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Kcode15/Leet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Kcode15/Leet/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kcode15/Leet/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kcode15/Leet/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kcode15/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Kcode15/Leet/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Kcode15/Leet/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kcode15/Leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Kcode15/Leet/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Kcode15/Leet/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Kcode15/Leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Kcode15/Leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kcode15/Leet/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kcode15/Leet/tree/master/2140-longest-subsequence-repeated-k-times) |
